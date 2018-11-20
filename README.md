@@ -2,4 +2,4 @@
 * [Conference Page](https://aung2phyowai.github.io/conference_listing/2018-2019-conferences.html)
 * Updated by Aung Aung, **NTU, SCSE, CIL LAB, BCI Group**
 
-[To be updated in the future]
+* Adapted from [https://github.com/JackieTseng/conference_call_for_paper]
